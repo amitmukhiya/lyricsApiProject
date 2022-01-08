@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lyricsApiProject/static/css/main.073c9b0a.css",
+    "main.js": "/lyricsApiProject/static/js/main.f6db385b.js",
+    "index.html": "/lyricsApiProject/index.html",
+    "main.073c9b0a.css.map": "/lyricsApiProject/static/css/main.073c9b0a.css.map",
+    "main.f6db385b.js.map": "/lyricsApiProject/static/js/main.f6db385b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f6db385b.js"
+  ]
+}
